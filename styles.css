@@ -1,0 +1,29 @@
+p {
+  font-size: 22px;
+  color: rgb(red, green, blue);
+  margin: 5pz auto 20px auto;
+}
+body {
+  background-color: #e8dcc3;
+  text-align: center;
+  padding: 25px;
+}
+p {
+  background-color: white;
+  max-width: 600px;
+  margin: 12px auto;
+  padding: 15px;
+  border-radius: 10px;
+  font-size: 15px;
+  line-height: 1.6;
+}
+body {
+  background-color: #e8dcc3;
+  text-align: center;
+  padding: 20px;
+}
+h1 {
+  font-size: 25px;
+  color: #3a2a1a;
+  margin: 5pz auto 20px auto;
+}
